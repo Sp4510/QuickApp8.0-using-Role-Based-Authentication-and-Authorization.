@@ -1,0 +1,6 @@
+@QuickApp8._0.Server_HostAddress = http://localhost:5181
+
+GET {{QuickApp8._0.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
